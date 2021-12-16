@@ -1,0 +1,19 @@
+com/getvoice/speech/restapi/common/ConnUtil.java
+ com.getvoice.speech.restapi.common.ConnUtil
+com/example/groupproject/JavaBean.java
+ com.example.groupproject.JavaBean
+com/getvoice/speech/restapi/ttsdemo/TtsMain.java
+ com.getvoice.speech.restapi.ttsdemo.TtsMain
+com/getvoice/speech/restapi/common/TokenHolder.java
+ com.getvoice.speech.restapi.common.TokenHolder
+com/getvoice/speech/restapi/common/DemoException.java
+ com.getvoice.speech.restapi.common.DemoException
+com/example/groupproject/MainActivity.java
+ com.example.groupproject.MainActivity
+ com.example.groupproject.MainActivity$1
+ com.example.groupproject.MainActivity$1$1
+ com.example.groupproject.MainActivity$2
+ com.example.groupproject.MainActivity$3
+ com.example.groupproject.MainActivity$4
+com/example/groupproject/BuildConfig.java
+ com.example.groupproject.BuildConfig
